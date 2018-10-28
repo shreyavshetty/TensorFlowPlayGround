@@ -24,6 +24,7 @@ This code is mainly aimed to illustrates the use of:
 2. Report.txt
 
 A DNN Classifier which is a Premade Estimator is used to predict the class of EMNIST images.
+
 Dataset - https://www.nist.gov/itl/iad/image-group/emnist-dataset
 
 This code illustrates the following :
