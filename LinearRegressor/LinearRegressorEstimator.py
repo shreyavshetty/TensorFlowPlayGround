@@ -8,7 +8,7 @@ from sklearn.model_selection import train_test_split
 '''
 Loading Dataset
 '''
-dataset = pd.read_csv('ds1.csv')
+dataset = pd.read_csv('dataset.csv')
 '''
 Data Preprocessing
 '''
@@ -72,6 +72,6 @@ predictions = np.array([item['predictions'][0] for item in preds])
 '''
 Printing the metrics
 '''
-print("train_metrics: ",train_e1)
-print("test_metrics: ",test_e1)
+print("train_metrics: ",train_eval)
+print("test_metrics: ",test_eval)
 
