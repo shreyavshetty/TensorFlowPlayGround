@@ -29,14 +29,14 @@ Dataset - https://www.nist.gov/itl/iad/image-group/emnist-dataset
 
 This code illustrates the following :
 - Reading data directly from the ubyte file
-
-**Referred to http://cjalmeida.net/post/tensorflow-mnist/**
 - Data Preprocessing
 - Creating an instance of Dataset API
 - Using Shuffle and Pre-fetch functinalities of TensorFlow
 - Using Pre-Made DNN Estimator to train and test
 - Reporting metrics per class
 - Reporting overall metrics
+
+**Referred to http://cjalmeida.net/post/tensorflow-mnist/**
 
 
 
