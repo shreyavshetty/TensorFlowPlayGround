@@ -25,8 +25,10 @@ This code is mainly aimed to illustrates the use of:
 
 A DNN Classifier which is a Premade Estimator is used to predict the class of EMNIST images.
 Dataset - https://www.nist.gov/itl/iad/image-group/emnist-dataset
+
 This code illustrates the following :
 - Reading data directly from the ubyte file
+
 **Referred to http://cjalmeida.net/post/tensorflow-mnist/**
 - Data Preprocessing
 - Creating an instance of Dataset API
