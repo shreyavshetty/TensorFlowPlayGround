@@ -9,6 +9,7 @@ interactive sessions which feed the data to the variables at runtime using two d
 ### LinearRegressorEstimator
 1. LinearRegressorEstimator.py
 2. dataset.csv
+
 A Linear Regressor is trained with a linear dataset using Tensorflow.
 This code is mainly aimed to illustrates the use of:
 - Dataset API
