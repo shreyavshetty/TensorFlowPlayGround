@@ -38,5 +38,9 @@ This code illustrates the following :
 
 **Referred to http://cjalmeida.net/post/tensorflow-mnist/**
 
-
-
+### Selfi-Dataset
+1. multiclass.ipynb
+2. multitask.ipynb
+3. popularity_score.ipynb
+4. popularity_score_qcut.ipynb
+5. analysis.ipynb
