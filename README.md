@@ -58,6 +58,8 @@ DataSet - http://crcv.ucf.edu/data/Selfie/
 3. popularity_score.ipynb
   - This file constains predicting the class of an image (great,avg,poor - based on popularity score- using simple fraction ethod to group classes.)  
 4. popularity_score_qcut.ipynb
+  - This file constains predicting the class of an image (great,avg,poor - based on popularity score- using q-cut approach to group classes.) 
 5. analysis.ipynb
+
 
 
