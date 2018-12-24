@@ -19,3 +19,28 @@ This code is mainly aimed to illustrates the use of:
   - Provide a much higher conceptual level than the base TensorFlow APIs
   - Abstracts the creation of computational graph or sessions since Estimators handle all 
 
+### EMNIST_DNNClassifier
+1. DNN.py
+2. Report.txt
+
+A DNN Classifier which is a Premade Estimator is used to predict the class of EMNIST images.
+
+Dataset - https://www.nist.gov/itl/iad/image-group/emnist-dataset
+
+This code illustrates the following :
+- Reading data directly from the ubyte file
+- Data Preprocessing
+- Creating an instance of Dataset API
+- Using Shuffle and Pre-fetch functinalities of TensorFlow
+- Using Pre-Made DNN Estimator to train and test
+- Reporting metrics per class
+- Reporting overall metrics
+
+**Referred to http://cjalmeida.net/post/tensorflow-mnist/**
+
+### Selfi-Dataset
+1. multiclass.ipynb
+2. multitask.ipynb
+3. popularity_score.ipynb
+4. popularity_score_qcut.ipynb
+5. analysis.ipynb
