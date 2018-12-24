@@ -48,6 +48,13 @@ DataSet - http://crcv.ucf.edu/data/Selfie/
     - Resnet50 architecture used as a base and last few layers added to it and trained
     - made to predict 36 attributes
 2. multitask.ipynb
+  - This file has two parts:
+    - 2 output heads
+      - input images and predict popularity score along with 7 attributes 
+    - 2 input heads
+      - input images and popularity scores, predict 36 attributes
+   
+    
 3. popularity_score.ipynb
 4. popularity_score_qcut.ipynb
 5. analysis.ipynb
